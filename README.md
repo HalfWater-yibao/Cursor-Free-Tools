@@ -6,7 +6,7 @@
 - **🌐 快速访问Dashboard**: 一键打开Cursor官方Dashboard
 - **🚀 一键重置**: 完整的账户重置功能，包括机器ID和认证信息
 
-软件截图
+
 <img width="406" height="582" alt="image" src="https://github.com/user-attachments/assets/2e09bf28-2841-47fa-96db-86e018ceb316" />
 
 
