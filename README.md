@@ -10,7 +10,7 @@
 <img width="406" height="582" alt="image" src="https://github.com/user-attachments/assets/2e09bf28-2841-47fa-96db-86e018ceb316" />
 
 
-### 安装步骤（目前支持MAC,WIN等设备回来再发吧）
+### 安装步骤（目前支持只MAC系统）
 
 1. 从 [Releases] 页面下载
 2. 解压下载的文件
