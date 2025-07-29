@@ -1,4 +1,4 @@
-# Cursor Tools
+# Cursor Tools 免费一键续杯
 
 ## 🌟 主要功能
 
