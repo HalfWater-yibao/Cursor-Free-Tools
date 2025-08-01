@@ -1,4 +1,4 @@
-# Cursor Tools 免费一键续杯
+# Cursor Tools 免费一键续杯(win/mac)
 
 ## 🌟 主要功能
 
@@ -6,11 +6,15 @@
 - **🚀 一键重置**: 完整的账户重置功能，包括机器ID和认证信息
 
 
-<img width="600" height="733" alt="image" src="https://github.com/user-attachments/assets/95058d6a-3044-4a4f-b93f-70e7731a9989" />
+<img width="604" height="727" alt="image" src="https://github.com/user-attachments/assets/96b04c6f-cdec-4db9-a86d-0b5394adfa2a" />
+<img width="654" height="783" alt="image" src="https://github.com/user-attachments/assets/635b00c1-e25e-4ec1-aa4a-5862c425c0f8" />
+![image](https://github.com/user-attachments/assets/de37b8e0-5ebf-489b-8d7d-951e6be29283)
 
 
 
-### 安装步骤（目前支持只MAC系统）
+
+
+### 安装步骤
 
 1. 从 [Releases] 页面下载
 2. 解压下载的文件双击打开
@@ -30,6 +34,7 @@
 5. 在左侧菜单中找到 **Cookies** → **https://cursor.com**
 6. 找到名为 `WorkosCursorSessionToken` 的Cookie
 7. 复制其 **Value** 值（这就是你的Session Token）
+8. 然后将这个token改为长效的。
 
 ### 2. 配置Token
 
