@@ -1,6 +1,7 @@
 # Cursor Tools 免费一键续杯(win/mac)
 免费节点，使用方法可以看这个https://github.com/hiddify/hiddify-app
 网站节点信息复制以下
+------------
 vless://a86b3b0a-9f70-4b68-9a8f-e1da709adc12@13.213.57.144:12345?encryption=none&security=reality&type=tcp&sni=www.swift.com&fp=chrome&pbk=WmHPqolRruRmAfEAJHZuAbMckylXJrfVddriGnTmgQY&flow=xtls-rprx-vision
 ------------
 vless://4c6df2f2-2f42-4ab4-8151-09f6666ce6ba@47.129.57.150:12345?encryption=none&security=reality&type=tcp&sni=www.swift.com&fp=chrome&pbk=3UO5LDuhp9607RiWPo7OHTlGPbSMX-s9FYCSN3fa2Bs&flow=xtls-rprx-vision
