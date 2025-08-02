@@ -1,4 +1,6 @@
 # Cursor Tools 免费一键续杯(win/mac)
+免费节点，使用方法可以看这个https://github.com/hiddify/hiddify-app
+vless://a86b3b0a-9f70-4b68-9a8f-e1da709adc12@13.213.57.144:12345?encryption=none&security=reality&type=tcp&sni=www.swift.com&fp=chrome&pbk=WmHPqolRruRmAfEAJHZuAbMckylXJrfVddriGnTmgQY&flow=xtls-rprx-vision
 
 ## 🌟 主要功能
 
