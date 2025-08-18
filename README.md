@@ -1,10 +1,6 @@
 # Cursor Tools 免费一键续杯(win/mac)
 
 -----------
-
-
-<img width="469" height="602" alt="image" src="https://github.com/user-attachments/assets/335ca6bf-df66-42c7-9803-c893af8bc0ef" />
-
 ## 🚀 使用方法
 
 1. 打开浏览器，访问 [cursor.com](https://cursor.com)
@@ -18,6 +14,10 @@
 9. 重新组合Token，官网获取的Token前部分user_01K2ssSEVTJFJCTZBVREDVDNER%3A%3A 和 完整的长效Token（eyJ开头）
 9.启动Cursor Tools
 10.将复制的Session Token粘贴到Token输入框中
+
+<img width="469" height="602" alt="image" src="https://github.com/user-attachments/assets/335ca6bf-df66-42c7-9803-c893af8bc0ef" />
+
+
 
 
 
