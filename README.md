@@ -9,7 +9,7 @@
 4. 切换到 **Application** 或 **存储** 标签
 5. 在左侧菜单中找到 **Cookies** → **https://cursor.com**
 6. 找到名为 `WorkosCursorSessionToken` 的Cookie
-7. 复制其 **Value** 值（这就是你的Session Token）例如：user_01K2ssSEVTJFJCTZBVREDVDNER%3A%3AeyJxxx全部网站的
+7. 复制其 **Value** 值（这就是你的Session Token）例如：user_01K2ssSEVTJFJCTZBVREDVDNER%3A%3AeyJxxx
 8. 打开网站 https://cursor.meteormail.me/  获取长效Token（在这里特别感谢Ctrler大佬）
 9. 重新组合Token，官网获取的Token前部分user_01K2ssSEVTJFJCTZBVREDVDNER%3A%3A 和 完整的长效Token（eyJ开头）
 9.启动Cursor Tools
