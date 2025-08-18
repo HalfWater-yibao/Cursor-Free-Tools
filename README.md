@@ -12,8 +12,8 @@
 7. 复制其 **Value** 值（这就是你的Session Token）例如：user_01K2ssSEVTJFJCTZBVREDVDNER%3A%3AeyJxxx
 8. 打开网站 https://cursor.meteormail.me/  获取长效Token（在这里特别感谢Ctrler大佬）
 9. 重新组合Token，官网获取的Token前部分user_01K2ssSEVTJFJCTZBVREDVDNER%3A%3A 和 完整的长效Token（eyJ开头）
-9.启动Cursor Tools
-10.将复制的Session Token粘贴到Token输入框中
+10. 下载启动Cursor Tools
+11. 将重新组合的Token粘贴到工具
 
 <img width="469" height="602" alt="image" src="https://github.com/user-attachments/assets/335ca6bf-df66-42c7-9803-c893af8bc0ef" />
 
