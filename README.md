@@ -1,5 +1,5 @@
 # Cursor Tools 免费一键续杯(win/mac)
-下载对应系统的版本：[https://github.com/HalfWater-yibao/Cursor-Free-Tools/releases/tag/v1.0.0]
+[点击此处下载对应的版本](https://github.com/HalfWater-yibao/Cursor-Free-Tools/releases/tag/v1.0.0)
 -----------
 ## 🚀 使用方法
 
